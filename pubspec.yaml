@@ -1,0 +1,31 @@
+name: flutter_pdfpodcast
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  together_ai_sdk: ^2.0.2
+  flutter_dotenv: ^5.2.1
+  http: ^1.2.2
+  dart_openai: ^5.1.0
+  file_picker: ^8.1.4
+  path_provider: ^2.1.5
+  audioplayers: ^6.1.0
+  syncfusion_flutter_pdf: ^27.2.5
+  ffmpeg_kit_flutter: ^6.0.3
+  web_socket_channel: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
