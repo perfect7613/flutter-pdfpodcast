@@ -1,6 +1,6 @@
 # PDF to Podcast Flutter App
 
-Convert any PDF document into an engaging podcast conversation using AI. This app leverages Together AI for natural language processing and Cartesia AI for text-to-speech synthesis.
+Convert any PDF document into an engaging podcast conversation using AI. This app leverages Together AI API which has opensource LLM models which helps in script generation and Cartesia AI for text-to-speech synthesis.
 
 
 ## Features
