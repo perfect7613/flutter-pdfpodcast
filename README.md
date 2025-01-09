@@ -19,3 +19,7 @@ You'll need:
 - Flutter SDK (latest stable version)
 - Together AI API key - [Get here](https://api.together.xyz/)
 - Cartesia AI API key - [Get here](https://cartesia.ai/)
+
+## Demo of the App
+https://github.com/user-attachments/assets/5d9009ec-beb5-42a3-9c8f-183c2297645b
+
